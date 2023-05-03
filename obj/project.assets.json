@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Course\\Course\\Ders1\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Course\\Course\\Course.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Course\\Course\\Ders1\\Course.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Course\\Course\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Course\\Course\\Ders1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
